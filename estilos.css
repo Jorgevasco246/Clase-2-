@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header{
+    text-align: center;
+}
+header img {
+    width: 100%;
+}
+nav {
+    background: blue;
+    color: aqua;
+    padding: 10px 0 10px 0;
+    margin-top: 0px;
+
+}
+nav ul li {
+    display:inline;
+    margin: 0 25px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+}
+section {
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
